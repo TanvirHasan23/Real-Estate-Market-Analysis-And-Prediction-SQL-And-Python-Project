@@ -19,7 +19,7 @@ The goal is not just to explore — but to predict:
 ---
 
 ## Project Links
-**Kaggle Notebook:** [View Full Project with Code & Charts](https://www.kaggle.com/code/abusufianorg/real-estate-insights-sql-python)
+**Kaggle Notebook:** [View Full Project with Code & Charts](https://github.com/TanvirHasan23/Real-Estate-Market-Analysis-And-Prediction-SQL-And-Python-Project/blob/main/USA%20Real%20Estate%20Market%20Analysis%20And%20Prediction/Notebook/real-estate-market-analysis-and-prediction.ipynb)
 
 ![Image](https://github.com/user-attachments/assets/a1a29157-ea59-4728-9c01-a132e3ff712f)
 
